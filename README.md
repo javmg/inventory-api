@@ -1,6 +1,6 @@
 # inventory-api
 
-Project containing a simple REST API in Java7 Spring.
+Project containing a simple REST API in Java/ Spring.
 
 Build
 ===
